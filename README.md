@@ -88,9 +88,6 @@
     <a href="https://github.com/Josh0690" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-Josh0690" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/josh.gaborne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-Christian" height="30" width="40" />
-    </a>  
-    <a href="https://open.spotify.com/user/31fnjmbd6mhhga7zcy6kb35gx4j4" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Christian" height="30" width="40" />
-    </a>
   <br>
 </div>
 
@@ -104,7 +101,7 @@
  
 <p align="center">
   <a href="https://github.com/Josh0690">
-    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christian-brrrt&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josh0690&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
   </a>
 </p>
 
