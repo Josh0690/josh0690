@@ -27,7 +27,8 @@
 <p align="center">
   <img width="460" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR2eGdtMjgzYmx1ejljeTYxNzdhaHBvMXZ1bzN3eXl5cmZqbHE3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xFn4u9nza9Baa4/giphy.gif">
 </p>
-  <b align="center">🤹‍ My main skills </b>
+<h3 align="center">
+  <b">🤹‍ My main skills </b>
 </h3>
 
 <h4 align="center">
