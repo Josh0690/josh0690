@@ -86,9 +86,9 @@
   <b>📱 Connect with me</b>
 </h3>
 <div style="display: inline_block" align="center">
-    <a href="https://github.com/Josh0690" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-Josh0690" height="30" width="40" />
+    <a href="https://github.com/Josh0690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub-Josh0690" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/josh.gaborne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-Christian" height="30" width="40" />
+    <a href="https://www.facebook.com/josh.gaborne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-Josh" height="30" width="40" />
   <br>
 </div>
 
