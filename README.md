@@ -103,7 +103,7 @@
 
  
 <p align="center">
-  <a href="https://github.com/Christian-brrrt">
+  <a href="https://github.com/Josh0690">
     <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christian-brrrt&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
   </a>
 </p>
